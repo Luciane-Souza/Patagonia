@@ -1,0 +1,29 @@
+.subtitulo{
+    font-size: 25px;
+}
+
+.img-row{
+    border-radius: 5px;
+    margin-top: 30px;
+    
+    
+}
+
+.inclinada-positiva{
+    transform: rotate(10deg);
+}
+
+.inclinada-negativa{
+    transform: rotate(-10deg);
+}
+
+figcaption.inclinada-negativa{
+    transform: rotate(-8deg);
+    padding-left: 30px;
+    padding-top: 3px;
+}
+
+figcaption.inclinada-positiva{
+    padding-left: 3px;
+    padding-right: 20px;
+    padding-top: 3px;

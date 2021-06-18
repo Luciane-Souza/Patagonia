@@ -1,0 +1,27 @@
+.subtitulo{
+    font-size: 25px;
+}
+
+.img-row{
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px;
+}
+
+.panel-default>.panel-heading{
+    background-color: #053F63;
+    color:#ffffff;
+}
+
+.comentario{
+    font-size: 12px;
+    margin-left: 0;
+}
+
+.posicionar{
+    margin-left: 1px;
+}
+
+.row{
+    margin: 0;
+}

@@ -1,0 +1,16 @@
+.img-row{
+    border-radius: 5px;
+    margin-top: 20px;
+    
+}
+
+.container img:hover{
+    transform: scale(1.1);
+    transform: scale(1.1);
+
+    -moz-opacity: 0.8;
+    opacity: 0.8;
+    filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80);
+    filter: alpha(opacity=80); 	
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)";
+}
